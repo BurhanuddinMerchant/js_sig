@@ -1,0 +1,10 @@
+body {
+  background: #892cdc;
+}
+#header {
+  font-size: 100px;
+  width: fit-content;
+  margin: 4em auto;
+  background: #e88a1a;
+  padding: 0.5em;
+}
